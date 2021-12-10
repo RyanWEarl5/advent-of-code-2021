@@ -1,6 +1,6 @@
 with open(r"day2-data.txt") as f:
     commands = [i.strip() for i in f.readlines()]
-print("Day 2 Challenge Part 1\n")
+print("Day 2 Challenge Part 2\n")
 
 class Submarine:
     
